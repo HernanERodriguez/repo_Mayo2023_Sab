@@ -1,0 +1,11 @@
+Archivo1
+Cambios de la Tarea1
+Cambio de Ticket1
+Nueva linea
+Otra linea
+
+Cambio para subir al remoto
+Cambio de otro programador
+
+
+Cambios RESET
